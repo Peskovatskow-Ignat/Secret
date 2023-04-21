@@ -21,6 +21,7 @@
     <ul>
       <li><code>file.py</code>: Пример файла содержщий код на языке Python</li>
       <li><code>IntrestingProgram</code>: Директория которая содержит интересные программы для общего развития</li>
+      <li><code>Work_EXE</code>: Директория которая содержит полезные exe файлы</li>
       <li><code>UsefulPrograms</code>: Директория в которой находятся полезные файлы и программы</li>
       <li><code>TelegramBot</code>: Директория с открытым кодом телеграм бота</li>
     </ul>
