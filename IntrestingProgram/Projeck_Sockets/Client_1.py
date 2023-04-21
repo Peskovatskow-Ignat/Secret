@@ -20,13 +20,9 @@ class IPconnect(QDialog):
     def ip_address(self):
         ip_address = self.password.text()
         self.password.setText('')
-        print(ip_address)
-        print(len(ip_address))
         if ip_address == '':
             print(0)
             return False
-        print(len(ip_address))
-        print(str(ip_address))
         self.sock.connect((ip_address, 55500))
         print(2)
         self.close()
