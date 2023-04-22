@@ -3,7 +3,7 @@
   <head>
   </head>
   <body>
-  <img align="right" alt="Coding" width="600" src="https://informationsecuritybuzz.com/wp-content/uploads/hacker-activity.png">
+    <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113009998/233772381-b051a566-85af-4f28-a6e1-5aa209f37318.png">
     <h1>Secret Repository</h1>
     <p>Этот репозиторий содержит различные интересные файлы и проекты.</p>
     <h2>Содержание</h2>
